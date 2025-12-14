@@ -1,0 +1,8 @@
+# Ignore dependencies in any folder
+**/node_modules/
+**/dist/
+**/build/
+
+# Ignore env files in any folder
+**/.env
+**/.env.local
